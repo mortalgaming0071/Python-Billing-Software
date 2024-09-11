@@ -1,0 +1,17 @@
+	Welcome Savaliya Reatil
+
+ Bill Numbar : 6301
+ Customer Name : tushar
+ Phone NUmber : 9081956172
+======================================
+ Products		 QTY		Price
+======================================
+ Face Cream		10		1300
+ Suger		10		500
+ Limca		10		450
+--------------------------------------
+ Cosmetic Tax			Rs. 65.0
+ Grocery Tax			Rs. 50.0
+ Col Dink Tax			Rs. 22.5
+ Total Bill : 			 Rs. 2387.5
+--------------------------------------

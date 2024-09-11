@@ -1,0 +1,17 @@
+	Welcome Savaliya Reatil
+
+ Bill Numbar : 4920
+ Customer Name : tushar
+ Phone NUmber : 9510558788
+======================================
+ Products		 QTY		Price
+======================================
+ Bath Shop		10		500
+ Mum Daal		10		700
+ Thumbsup		10		550
+--------------------------------------
+ Cosmetic Tax			Rs. 25.0
+ Grocery Tax			Rs. 70.0
+ Col Dink Tax			Rs. 27.5
+ Total Bill : 			 Rs. 1872.5
+--------------------------------------

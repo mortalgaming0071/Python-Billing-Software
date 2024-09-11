@@ -1,0 +1,19 @@
+	Welcome Savaliya Reatil
+
+ Bill Numbar : 3967
+ Customer Name : TUSHAR SAVALIYA
+ Phone NUmber : 9510558788
+======================================
+ Products		 QTY		Price
+======================================
+ Bath Shop		1		50
+ Hair Gell		3		450
+ Food Oil		2		380
+ Suger		2		100
+ Frooti		5		250
+--------------------------------------
+ Cosmetic Tax			Rs. 25.0
+ Grocery Tax			Rs. 48.0
+ Col Dink Tax			Rs. 12.5
+ Total Bill : 			 Rs. 1315.5
+--------------------------------------

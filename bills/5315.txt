@@ -1,0 +1,17 @@
+	Welcome Savaliya Reatil
+
+ Bill Numbar : 5315
+ Customer Name : tushar
+ Phone NUmber : 9510558788
+======================================
+ Products		 QTY		Price
+======================================
+ Face Wash		1		70
+ Wheat		2		500
+ Frooti		5		250
+--------------------------------------
+ Cosmetic Tax			Rs. 3.5
+ Grocery Tax			Rs. 50.0
+ Col Dink Tax			Rs. 12.5
+ Total Bill : 			 Rs. 886.0
+--------------------------------------

@@ -1,0 +1,18 @@
+	Welcome Savaliya Reatil
+
+ Bill Numbar : 9801
+ Customer Name : ffff
+ Phone NUmber : 44444444444
+======================================
+ Products		 QTY		Price
+======================================
+ Hair Gell		1		150
+ Wheat		5		1250
+ Frooti		5		250
+ Limca		5		225
+--------------------------------------
+ Cosmetic Tax			Rs. 7.5
+ Grocery Tax			Rs. 125.0
+ Col Dink Tax			Rs. 23.75
+ Total Bill : 			 Rs. 2031.25
+--------------------------------------
